@@ -5,7 +5,45 @@
             "src": "images/receita.png",
             "sizes": "256x256",
             "type": "image/png"
+        },
+        {
+            "src": "images/bife.jpg",
+            "sizes": "512x512",
+            "type": "image/jpg"
+        },
+        {
+            "src": "images/bolocarne.jpg",
+            "type": "image/jpg"
+        },
+        {
+            "src": "images/brigadeiro.jpg",
+            "type": "image/jpg"
+        },
+        {
+            "src": "images/brownie.jpg",
+            "type": "image/jpg"
+        },
+        {
+            "src": "images/macarrao.jpg",
+            "type": "image/jpg"
+        },
+        {
+            "src": "images/mracuja.jpg",
+            "type": "image/jpg"
+        },
+        {
+            "src": "images/panqueca.jpg",
+            "type": "image/jpg"
+        },
+        {
+            "src": "images/pastel.jpg",
+            "type": "image/jpg"
+        },
+        {
+            "src": "images/strogonoff.jpg",
+            "type": "image/jpg"
         }
+
     ],
     "short_name" : "recipesPWA",
     "lang" : "pt-BR",

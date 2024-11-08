@@ -4,3 +4,5 @@ window.onload = () =>{
         navigator.serviceWorker.register("/sw.js")
     }
 };
+
+console.log()
