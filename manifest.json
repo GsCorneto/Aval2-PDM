@@ -1,5 +1,12 @@
 {
     "name" : "PWA sobre Receitas e Guloseimas",
+    "icons": [
+        {
+            "src": "images/receita.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
     "short_name" : "recipesPWA",
     "lang" : "pt-BR",
     "start_url" : "/index.html",

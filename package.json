@@ -1,0 +1,15 @@
+{
+  "name": "aval2-pdm",
+  "version": "1.0.0",
+  "description": "2° Avaliação de PDM",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "serve ."
+  },
+  "author": "João Pedro e Guilherme Corneto",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}

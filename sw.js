@@ -1,6 +1,6 @@
 const cacheName = "pwa-receitas" ;
-const arquivosSalvos = ["/", "/index.html", "/styles.css", "/main.js", 
-                    "/routes/carnes.html", "/routes/doces.html", "/routes/massas.html"];
+const arquivosSalvos = ["/", "/index", "/styles.css", "/main.js", 
+                    "/routes/carnes", "/routes/doces", "/routes/massas"];
 
 self.addEventListener("install", (e) => {
     e.waitUntil(
